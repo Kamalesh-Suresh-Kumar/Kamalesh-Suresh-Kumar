@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=KamaleshSP&label=Profile%20views&color=0e75b6&style=flat" alt="KamaleshSP" />
+    <img src="https://komarev.com/ghpvc/?username=KamaleshSP&label=Profile%20views&color=0e75b6&style=flat" alt="Kamalesh-Suresh-Kumar" />
     <img src="https://img.shields.io/badge/Mission-Top%20MNCs-blueviolet?style=flat&logo=target" />
     <img src="https://img.shields.io/badge/Projects-In%20Progress-yellow?style=flat&logo=progress" />
 </p>
@@ -34,8 +34,7 @@
 - 📱 Phone: +91 636 963 8817
 - 📧 Email: [230701138@rajalakshmi.edu.in](mailto:230701138@rajalakshmi.edu.in)  
 - 🏠 Address: [No. 1A, H. B. Nagar, Near Masudhi, Melnallathur, Thiruvallur - 602 002](https://maps.app.goo.gl/783vC9nEZobrHfku9)
-- 🔗 Personal GitHub: [Mini Projects, Personal Projects](https://github.com/Kamalesh-SureshKumar)
-- 🔗 College GitHub: [Mini Projects, Records](https://github.com/KamaleshSP)
+- 🔗 GitHub: [Mini Projects, Personal Projects & Records](https://github.com/Kamalesh-Suresh-Kumar)
 
 ---
 
@@ -407,12 +406,8 @@
 
 ---
 
-Check out my projects and contributions on my [Personal GitHub](https://github.com/Kamalesh-SureshKumar)
-
----
-
 <h3 align="center">
-    Connect with Me, Visit:
+   To Connect with Me, Visit:
 </h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/kamalesh-sp" target="_blank" >
