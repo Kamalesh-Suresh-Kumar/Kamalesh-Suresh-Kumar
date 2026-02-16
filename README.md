@@ -403,9 +403,6 @@
     <a href="https://www.linkedin.com/in/kamalesh-sp" target="_blank" >
         <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" height="50" width="50" style="border-radius:50%; padding:10px; background:#0e1116; box-shadow:0 0 12px #00aaff;" />
     </a>
-    <a href="https://www.instagram.com/kamalesh.s.p/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" height="50" width="50" style="border-radius:50%; padding:10px; background:#0e1116; box-shadow:0 0 12px #00aaff;" />
-    </a>
     <a href="https://mail.google.com/mail/?view=cm&to=kamalsuresh2005@gmail.com" target="_blank" >
         <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" height="50" width="50" style="border-radius:50%; padding:10px; background:#0e1116; box-shadow:0 0 12px #00aaff;" />
     </a>
