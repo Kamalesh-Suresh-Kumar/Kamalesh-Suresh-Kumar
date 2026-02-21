@@ -31,8 +31,8 @@
 
 ## 📞 Contact
 
-- 📱 Phone: +91 636 963 8817
-- 📧 Email: [230701138@rajalakshmi.edu.in](mailto:230701138@rajalakshmi.edu.in)  
+- 📱 Phone: [+91 636 963 8817](tel:+916369638817)
+- 📧 Email: [230701138@rajalakshmi.edu.in](mailto:230701138@rajalakshmi.edu.in)
 - 🏠 Address: [No. 1A, H. B. Nagar, Near Masudhi, Melnallathur, Thiruvallur - 602 002](https://maps.app.goo.gl/783vC9nEZobrHfku9)
 - 🔗 GitHub: [Mini Projects, Personal Projects & Records](https://github.com/Kamalesh-Suresh-Kumar)
 
