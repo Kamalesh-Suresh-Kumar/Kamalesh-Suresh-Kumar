@@ -380,10 +380,10 @@
 ## 📊 Coding Dashboard
 
 <p align="center">
-    <a href="https://www.hackerrank.com/h2307011381">
+    <a href="https://www.hackerrank.com/profile/kamalesh_s_p">
         <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white" />
     </a>
-    <a href="https://leetcode.com/u/ja5Idde5NU">
+    <a href="https://leetcode.com/u/kamalesh_s_p">
         <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06" />
     </a>
 </p>
