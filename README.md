@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Aspiring Full Stack Developer & Ethical Hacker | Shaastra’25 IITM Finalist | Pre-Final Year @ Rajalakshmi Engineering College
+    Aspiring Software Development Engineer | Shaastra’25 IITM Finalist | Pre-Final Year @ Rajalakshmi Engineering College
 </h3>
 
 ---
