@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+Viewers;+I'm+Kamalesh+Suresh+Kumar;+Aspiring+Software+Development+Engineer" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+Viewers;+I'm+Kamalesh+Suresh+Kumar;+Aspiring+Software+Development+Engineer" />
 </h1>
 
 <h3 align="center">
@@ -16,6 +16,10 @@
 
 ---
 
+![snake](https://raw.githubusercontent.com/Kamalesh-Suresh-Kumar/Kamalesh-Suresh-Kumar/output/snake.svg)
+
+---
+
 - 🌱 I’m currently learning **Cyber Security and Ethical Hacking**.
 - 💬 Ask me about **Networking, Database, Full Stack Development**.
 
@@ -23,8 +27,8 @@
 
 ## 🧠 Summary
 
-- A dedicated and enthusiastic developer who thrives on solving new challenges. 
-- Recognized for adaptability, a strong work ethic, and excellent communication skills. 
+- A dedicated and enthusiastic developer who thrives on solving new challenges.
+- Recognized for adaptability, a strong work ethic, and excellent communication skills.
 - Learns quickly and performs confidently in both independent and collaborative environments.
 
 ---
@@ -32,37 +36,45 @@
 ## 📞 Contact
 
 - 📱 Phone: [+91 636 963 8817](tel:+916369638817)
-- 📧 Email: [230701138@rajalakshmi.edu.in](mailto:230701138@rajalakshmi.edu.in)
-- 🏠 Address: [No. 1A, H. B. Nagar, Near Masudhi, Melnallathur, Thiruvallur - 602 002](https://maps.app.goo.gl/783vC9nEZobrHfku9)
-- 🔗 GitHub: [Mini Projects, Personal Projects & Records](https://github.com/Kamalesh-Suresh-Kumar)
+- 📧 Email: [trlkamalesh@gmail.com](mailto:trlkamalesh@gmail.com)
+- 🏠 Location: Thiruvallur
+- 🌐 Portfolio: [KAI HQ](https://kamalesh-suresh-kumar.github.io/Portfolio-KAI-HQ/)
+- 🔗 Connect: KAI Connect
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages:**  
-`Python` `C++` `C` `Java` `Kotlin` `R` `HTML` `CSS` `JavaScript` `TypeScript`
+**Programming Languages:**<br/>
+`Python` `Java` `C` `C++` `JavaScript` `flutter`
 
-**Frameworks & Libraries:**  
-`Django` `Node.js` `Express.js` `TensorFlow` `PyTorch` `Scikit-learn` `Pygame` `Selenium`
+**Core Concepts:**<br/>
+`DSA` `OOPs` `Problem Solving` `JDBC`
 
-**Databases:**  
+**Frameworks & Libraries:**<br/>
+`Django` `Node.js` `Express.js` `TensorFlow` `PyTorch` `Scikit-learn`
+
+**Web Technologies:**<br/>
+`HTML` `CSS` `REST API Development & Integrations`
+
+**Databases:**<br/>
 `MySQL` `MongoDB` `PostgreSQL`
+
+**Tools:**<br/>
+`Git` `GitHub` `Postman`
+
+**Development Pratices:**<br/>
+`Debugging` `Testing` `Version Control`
 
 ---
 
 ## 🧩 Key Skills
 
-- Teamwork & Collaboration  
-- Leadership  
-- Critical Thinking  
-- Research & Problem Solving  
-- Adaptability  
-- Friendly & Positive Attitude  
+- Teamwork & Collaboration
+- Adaptability
 - Fast Learner
 - Multitasking
 - Time Management
-- Cross-functional Collaboration
 - Open-mindedness
 
 ---
@@ -257,6 +269,7 @@
 </div>
 
 > Note:
+>
 > 1. A replacement for `nil` will be implemented once the project is complete.
 > 2. A replacement for `unknown` will be revealed once I get to know what I am doing to do.
 > 3. A replacement for `I may not have rights to share it` may or may not occur, as it has restrictions.
@@ -410,14 +423,3 @@
         <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" height="50" width="50" style="border-radius:50%; padding:10px; background:#0e1116; box-shadow:0 0 12px #00aaff;" />
     </a>
 </p>
-
-
-
-
-
-  
-
-
-
-
-
