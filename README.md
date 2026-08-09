@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=KamaleshSP&label=Profile%20views&color=0e75b6&style=flat" alt="Kamalesh-Suresh-Kumar" />
+    <img src="https://komarev.com/ghpvc/?username=Kamalesh-Suresh-Kumar&label=Profile%20views&color=0e75b6&style=flat" alt="Kamalesh-Suresh-Kumar" />
     <img src="https://img.shields.io/badge/Mission-Top%20MNCs-blueviolet?style=flat&logo=target" />
     <img src="https://img.shields.io/badge/Projects-In%20Progress-yellow?style=flat&logo=progress" />
 </p>
@@ -20,8 +20,8 @@
 
 ---
 
-- 🌱 I’m currently learning **Cyber Security and Ethical Hacking**.
-- 💬 Ask me about **Networking, Database, Full Stack Development**.
+- 🌱 I’m currently learning **DSA and Apititude**.
+- 💬 Ask me about **Networking, Software Development Engineering**.
 
 ---
 
