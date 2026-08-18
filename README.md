@@ -39,7 +39,7 @@
 - 📧 Email: [trlkamalesh@gmail.com](mailto:trlkamalesh@gmail.com)
 - 🏠 Location: Thiruvallur
 - 🌐 Portfolio: [KAI HQ](https://kamalesh-suresh-kumar.github.io/Portfolio-KAI-HQ/)
-- 🔗 Connect: KAI Connect
+- 🔗 Connect: [KAI Nexus](https://kamalesh-suresh-kumar.github.io/KAI-Nexus/)
 
 ---
 
