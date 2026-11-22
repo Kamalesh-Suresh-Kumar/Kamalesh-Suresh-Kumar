@@ -8,6 +8,10 @@
 
 ---
 
+<h1>This Doc is under development things in this might not true</h1>
+
+---
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Kamalesh-Suresh-Kumar&label=Profile%20views&color=0e75b6&style=flat" alt="Kamalesh-Suresh-Kumar" />
     <img src="https://img.shields.io/badge/Mission-Top%20MNCs-blueviolet?style=flat&logo=target" />
@@ -36,7 +40,7 @@
 ## 📞 Contact
 
 - 📱 Phone: [+91 636 963 8817](tel:+916369638817)
-- 📧 Email: [trlkamalesh@gmail.com](mailto:trlkamalesh@gmail.com)
+- 📧 Email: [kamalesh.sde@gmail.com](mailto:kamalesh.sde@gmail.com)
 - 🏠 Location: Thiruvallur
 - 🌐 Portfolio: [KAI HQ](https://kamalesh-suresh-kumar.github.io/Portfolio-KAI-HQ/)
 - 🔗 Connect: [KAI Nexus](https://kamalesh-suresh-kumar.github.io/KAI-Nexus/)
