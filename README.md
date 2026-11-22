@@ -8,7 +8,7 @@
 
 ---
 
-<h1>This Doc is under development things in this might not true</h1>
+<h1>This Doc is under development, Things/Details in this might not true</h1>
 
 ---
 
